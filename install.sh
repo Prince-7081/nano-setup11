@@ -24,7 +24,9 @@ curl -fsSL https://raw.githubusercontent.com/PRINCE-7081/nano-setup11/main/.nano
 
 if [ $? -eq 0 ]; then
     echo -e "${G}"
-    echo "========================================"
+    echo
+clear
+ "========================================"
     echo " Nano Configuration Installed!"
     echo "========================================"
     echo "Developer : PRINCE-7081"
