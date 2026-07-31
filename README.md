@@ -19,7 +19,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/PRINCE-7081/nano-setup11/mai
 - Custom colors
 - Clean interface
 
-## Developer
+## nano image 
 
 <img src="IMG_20260731_202527.jpg" width="200">
 
