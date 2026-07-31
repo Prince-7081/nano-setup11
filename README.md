@@ -5,7 +5,7 @@ Custom Nano configuration for Termux.
 ## Installation
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/PRINCE-7081/nano-setup/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/PRINCE-7081/nano-setup11/main/install.sh)
 ```
 
 ## Features
