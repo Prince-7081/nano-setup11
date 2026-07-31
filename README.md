@@ -21,4 +21,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/PRINCE-7081/nano-setup11/mai
 
 ## Developer
 
-PRINCE-7081
+<img src="IMG_20260731_202527.jpg" width="200">
+
+**PRINCE-7081**
