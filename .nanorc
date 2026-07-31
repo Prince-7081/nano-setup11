@@ -1,0 +1,21 @@
+set linenumbers
+set constantshow
+set autoindent
+set smarthome
+set tabstospaces
+set tabsize 4
+set trimblanks
+set nohelp
+set softwrap
+set positionlog
+set regexp "^([[:space:]]*)?([{()}[\]])"
+set titlecolor brightwhite,cyan
+set promptcolor brightwhite,blue
+set statuscolor brightwhite,orange
+set errorcolor brightwhite,red
+set spotlightcolor black,yellow
+set selectedcolor brightwhite,magenta
+set scrollercolor brightwhite,cyan
+set numbercolor cyan,black
+set keycolor brightwhite,blue
+set functioncolor brightwhite,green
