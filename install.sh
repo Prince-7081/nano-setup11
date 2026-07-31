@@ -20,7 +20,7 @@ pkg install curl -y
 
 echo -e "${Y}Downloading Nano configuration...${N}"
 
-curl -fsSL https://raw.githubusercontent.com/PRINCE-7081/nano-setup/main/.nanorc -o "$HOME/.nanorc"
+curl -fsSL https://raw.githubusercontent.com/PRINCE-7081/nano-setup11/main/.nanorc -o "$HOME/.nanorc"
 
 if [ $? -eq 0 ]; then
     echo -e "${G}"
